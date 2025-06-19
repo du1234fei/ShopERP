@@ -1,34 +1,13 @@
 
-<h4 align="center">CoreShop</h4>
-
-[![star](https://gitee.com/CoreUnion/CoreShop/badge/star.svg)](https://gitee.com/CoreUnion/CoreShop.git) [![fork](https://gitee.com/CoreUnion/CoreShop/badge/fork.svg)](https://gitee.com/CoreUnion/CoreShop.git)
-[![GitHub stars](https://img.shields.io/github/stars/CoreUnion/CoreShop?logo=github)](https://github.com/CoreUnion/CoreShop) 
-[![GitHub forks](https://img.shields.io/github/forks/CoreUnion/CoreShop?logo=github)](https://github.com/CoreUnion/CoreShop)
-<a target="_blank" href="https://gitee.com/CoreUnion/CoreShop/blob/master/LICENSE"><img src="https://img.shields.io/github/license/CoreUnion/CoreShop.svg?logo=git&logoColor=red" ></img></a>
-
-
-
-```shell
-如果对您有帮助，您可以点右上角 “Star” 收藏一下 ，获取第一时间更新，谢谢！
-```
-
-------------------------------------------------------------------------
-
 官方网站：https://www.coreshop.cn/ 
 
-QQ群①：70494974（满） QQ群②：809739299 
-
-
-[![](https://img.shields.io/badge/点击访问官方网站-coreshop.cn-brightgreen)](https://www.coreshop.cn/)  [![](https://img.shields.io/badge/点击加QQ群①-70494974-red)](https://qm.qq.com/cgi-bin/qm/qr?k=pgFUcMcD1gpx68cm4C0jSReWh1lItZiM&jump_from=webapi&authKey=6slouhPqo6W9PDabQZehU/uH+At77rw0qVTjOhuGFyXGohIyMYwvIzCFkQ65pHZe)
-[![](https://img.shields.io/badge/点击加QQ群②-809739299-red)](https://qm.qq.com/cgi-bin/qm/qr?k=XT_VWu88BJTpfeeKuSxYILsEMUwWySx2&jump_from=webapi&authKey=l5okP36s2gICEoBWftUrGg190va0ZlvcMwbDJZM2e9Z7i0c0gLCV8YCTvbP1IMsd)
-
-
-------------------------------------------------------------------------
 
 </div>
 
-#### 💐 核心商城（CoreShop）介绍
-> 核心商城系统`（CoreShop）` 是基于 Asp.Net 8.0、Uni-App开发、支持可视化布局的小程序商城系统；前后端分离，支持跨平台运行；拥有分销、代理、团购秒杀、接龙、拼团、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程，支持可视化自定义首页模块布局效果。    
+#### 【自己二次开发私有仓，学习用途，自己摸索升级中，方便记录】
+#### 💐 核心商城（CoreShop）介绍     
+
+> 核心商城系统`（CoreShop）` 是基于 Asp.Net 8.0 开发、支持可视化布局的小程序商城系统；前后端分离，支持跨平台运行；拥有分销、代理、团购秒杀、接龙、拼团、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程，支持可视化自定义首页模块布局效果。    
 
 > 支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、百度小程序版、字节跳动小程序版、QQ小程序版、快应用、360小程序共10个平台。    
 
@@ -75,16 +54,6 @@ QQ群①：70494974（满） QQ群②：809739299
 
 使用uni-app跨平台开发框架，结合ColorUI的美观、uViewUI的组件功能，实现更多交互细节，我们倾尽全力提供更加流畅舒爽的产品体验，实现一个后台，管理10个前端。同时又实现了一套前端代码，发布多个平台，为您的业务可以提供更加强有力的支撑！
 
-
-#### 🎒 小程序截图
-
-| 真机截图 |
-|---------------------|
-| ![小程序截图](https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/WeChat/01.jpg)  |
-| ![小程序截图](https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/WeChat/02.jpg)  |
-| ![小程序截图](https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/WeChat/03.jpg)  |
-| ![小程序截图](https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/WeChat/04.jpg)  |
-| ![小程序截图](https://gitee.com/CoreUnion/CoreShop/raw/master/.gitee/coreshop/images/WeChat/05.jpg)  |
 
 #### 🎏 后端截图  
 
@@ -144,20 +113,11 @@ QQ群①：70494974（满） QQ群②：809739299
 - 使用 SKIT.FlurlHttpClient.Wechat 作为微信公众号及小程序对接组件;
 
 
-#### 👒 前端框架  
-
-| 技术 | 官网 | 版本 | 描述 |
-| --- | --- | --- | --- |
-| uni-app | https://uniapp.dcloud.io/ |  | 跨平台应用前端框架 | 
-| uView UI | http://uviewui.com/ | v2.x | 全面兼容nvue的uni-app生态框架|
-
 
 ### 📀 开发环境
 
 - Visual Studio 2022 +
 - .NET 7 SDK +
-- HBuilderX
-- 微信开发者工具
 - SQL Server Management Studio
 - Navicat for MySQL / Sqlyog
 - Redis Desktop Manager
@@ -184,51 +144,6 @@ QQ群①：70494974（满） QQ群②：809739299
 - 软件受国家计算机软件著作权保护（登记号：2020SR1224749，2021SR1661132）。
 - 我们的团队水平有限，也是在探索中学习、改进。开源，是为了让认可我们的用户能自由的使用、学习软件的内部架构，让更多的人有机会阅读并发现Bug、对软件项目提出改进意见。
 - 如果有需要专业版源代码及技术服务指导的，请前往【https://www.coreshop.cn/Service/Subscription】购买订阅服务。
-
-### 👏 贡献代码
-
-1. 欢迎提交 [pull request](https://gitee.com/CoreUnion/CoreShop/pulls)，注意提交至 `develop` 分支
-2. 欢迎提交 [issue](https://gitee.com/CoreUnion/CoreShop/issues)，请写清楚遇到问题的原因、开发环境、复显步骤以及期望达到的效果。
-
-
-### 💘 支持开源
-- 希望CoreShop对您有用，您的支持也是CoreShop开源的动力，CoreShop有你更精彩！
-
-- 感谢以下小伙伴对我们的支持，捐赠列表将不定期更新；如有疏漏或错误请联系我们更正；捐赠金额将用于演示服务器，redis，mysql等硬件资源开支。
-
-| 序列 | 昵称 | 捐赠金额（元） | 日期 | 
-| --- | --- | --- | --- | 
-| 1 | 井中叶 | 500 | 2021-06-05 | 
-| 2 | 信息化 | 100 | 2021-06-26 | 
-| 3 | 威力古德-赵仁伟 | 20 | 2021-06-30 | 
-| 4 | Soul⌒浅鑫 | 100 | 2021-07-05 | 
-| 5 | 小金羊 | 6.6 | 2021-07-09 | 
-| 6 | 。Y | 100 | 2021-07-29 | 
-| 7 | Keyli | 100 | 2021-07-29 | 
-| 8 |    ⃢ ܫ ⃢   | 100 | 2021-07-29 | 
-| 9 | harry | 50 | 2021-08-01 | 
-| 10 | 鲁迦 | 66.66 | 2021-08-01 | 
-| 11 | L。 | 10 | 2021-08-02 | 
-| 12 | ˉ痛彻心扉ˇ | 100 | 2021-08-03 | 
-| 13 | Handsome Man | 50 | 2021-08-04 | 
-| 14 | Lucky Cloud | 30 | 2021-08-09 | 
-| 15 | hairi | 20 | 2021-08-09 | 
-| 16 | 小百货 | 100 | 2021-08-17 | 
-| 17 | 火星上的男人-18983076500 | 188 | 2021-08-25 | 
-| 18 | 累挺 | 188.88 | 2021-08-25 | 
-| 19 | *长 | 20 | 2021-09-14 | 
-| 20 | a*d | 5 | 2021-09-15 | 
-| 21 | Handsome Man | 50 | 2021-09-15 | 
-| 22 | Handsome Man | 8.5 | 2021-09-21 | 
-| 23 | On-line | 66 | 2021-10-02 | 
-| 24 | 六耳 | 133.32 | 2021-10-07 | 
-| 25 | 唐爽 | 100 | 2021-10-12 | 
-| 26 | 月上松树梢 | 6.66 | 2021-10-13 | 
-| 27 | *文 | 200 | 2021-10-13 | 
-| 28 | *秀 | 27 | 2021-10-16 | 
-| 29 | *度（项目开发18605037733） | 56 | 2021-10-23 | 
-| 30 | *印 | 200 | 2021-10-29  | 
-
 
 ### ☀️ 组织  
 - CoreShop 项目已加入 [dotNET China](https://gitee.com/dotnetchina)  组织。
