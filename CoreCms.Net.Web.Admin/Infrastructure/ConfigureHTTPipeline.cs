@@ -83,10 +83,12 @@ namespace CoreCms.Net.Web.Admin.Infrastructure
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
-            //设置默认起始页（如default.html）
+           
             //此处的路径是相对于wwwroot文件夹的相对路径
             var defaultFilesOptions = new DefaultFilesOptions();
             defaultFilesOptions.DefaultFileNames.Clear();
+
+            //设置默认起始页（如default.html）
             defaultFilesOptions.DefaultFileNames.Add("index.html");
             app.UseDefaultFiles(defaultFilesOptions);
             app.UseStaticFiles();
