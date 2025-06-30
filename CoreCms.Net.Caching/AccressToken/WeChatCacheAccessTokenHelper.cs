@@ -1,15 +1,4 @@
-﻿/***********************************************************************
- *            Project: CoreCms
- *        ProjectName: 核心内容管理系统                                
- *                Web: https://www.corecms.net                      
- *             Author: 大灰灰                                          
- *              Email: jianweie@163.com                                
- *         CreateTime: 2021/7/13 21:58:04
- *        Description: 暂无
- ***********************************************************************/
-
-
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using CoreCms.Net.Caching.Manual;
 using CoreCms.Net.Configuration;
 using CoreCms.Net.Model.Entities;

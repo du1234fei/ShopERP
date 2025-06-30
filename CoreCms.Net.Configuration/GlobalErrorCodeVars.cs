@@ -1,14 +1,4 @@
-﻿/***********************************************************************
- *            Project: CoreCms.Net                                     *
- *                Web: https://CoreCms.Net                             *
- *        ProjectName: 核心内容管理系统                                *
- *             Author: 大灰灰                                          *
- *              Email: JianWeie@163.com                                *
- *         CreateTime: 2020-03-28 23:22:14
- *        Description: 暂无
- ***********************************************************************/
-
-namespace CoreCms.Net.Configuration
+﻿namespace CoreCms.Net.Configuration
 {
     /// <summary>
     /// 数据接口错误编码返回

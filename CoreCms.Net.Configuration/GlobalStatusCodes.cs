@@ -1,15 +1,4 @@
-﻿/***********************************************************************
- *            Project: CoreCms.Net                                     *
- *                Web: https://CoreCms.Net                             *
- *        ProjectName: 核心内容管理系统                                *
- *             Author: 大灰灰                                          *
- *              Email: JianWeie@163.com                                *
- *         CreateTime: 2020-03-14 16:30:32
- *        Description: 暂无
- ***********************************************************************/
-
-
-namespace CoreCms.Net.Configuration
+﻿namespace CoreCms.Net.Configuration
 {
     /// <summary>
     /// HTTP 返回格式状态码

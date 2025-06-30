@@ -1,15 +1,4 @@
-﻿/***********************************************************************
- *            Project: CoreCms
- *        ProjectName: 核心内容管理系统                                
- *                Web: https://www.corecms.net                      
- *             Author: 大灰灰                                          
- *              Email: jianweie@163.com                                
- *         CreateTime: 2021/7/14 16:27:23
- *        Description: 暂无
- ***********************************************************************/
-
-
-using Newtonsoft.Json.Linq;
+﻿using Newtonsoft.Json.Linq;
 
 namespace CoreCms.Net.WeChat.Service.Models
 {

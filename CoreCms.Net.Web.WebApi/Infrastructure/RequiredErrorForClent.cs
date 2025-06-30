@@ -1,15 +1,4 @@
-﻿/***********************************************************************
- *            Project: CoreCms.Net                                     *
- *                Web: https://CoreCms.Net                             *
- *        ProjectName: 核心内容管理系统                                *
- *             Author: 大灰灰                                          *
- *              Email: JianWeie@163.com                                *
- *         CreateTime: 2020-02-17 1:40:34
- *        Description: 暂无
- ***********************************************************************/
-
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using CoreCms.Net.Model.ViewModels.Basics;

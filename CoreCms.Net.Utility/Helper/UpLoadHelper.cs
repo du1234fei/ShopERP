@@ -1,15 +1,4 @@
-﻿/***********************************************************************
- *            Project: CoreCms
- *        ProjectName: 核心内容管理系统                                
- *                Web: https://www.corecms.net                      
- *             Author: 大灰灰                                          
- *              Email: jianweie@163.com                                
- *         CreateTime: 2021/8/16 12:44:16
- *        Description: 暂无
- ***********************************************************************/
-
-
-using CoreCms.Net.Configuration;
+﻿using CoreCms.Net.Configuration;
 
 namespace CoreCms.Net.Utility.Helper
 {

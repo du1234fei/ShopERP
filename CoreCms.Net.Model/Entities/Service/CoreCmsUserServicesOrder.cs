@@ -1,13 +1,3 @@
-/***********************************************************************
- *            Project: CoreCms
- *        ProjectName: 核心内容管理系统                                
- *                Web: https://www.corecms.net                      
- *             Author: 大灰灰                                          
- *              Email: jianweie@163.com                                
- *         CreateTime: 2022/1/15 1:30:57
- *        Description: 暂无
- ***********************************************************************/
-
 using SqlSugar;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;

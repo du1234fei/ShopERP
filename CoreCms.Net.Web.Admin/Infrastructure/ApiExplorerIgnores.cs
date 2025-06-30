@@ -1,15 +1,4 @@
-﻿/***********************************************************************
- *            Project: CoreCms.Net                                     *
- *                Web: https://CoreCms.Net                             *
- *        ProjectName: 核心内容管理系统                                *
- *             Author: 大灰灰                                          *
- *              Email: JianWeie@163.com                                *
- *         CreateTime: 2020-03-15 20:42:29
- *        Description: 暂无
- ***********************************************************************/
-
-
-using Microsoft.AspNetCore.Mvc.ApplicationModels;
+﻿using Microsoft.AspNetCore.Mvc.ApplicationModels;
 
 namespace CoreCms.Net.Web.Admin.Infrastructure
 {

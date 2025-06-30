@@ -1,5 +1,4 @@
 
-/**************** 主题换肤  ****************/
 /* 默认风格*/
 .dtree-theme-item-this{background-color: #d2d2d2!important;}
 .dtree-theme-item:hover{background-color: #eaeceb!important;}
@@ -35,7 +34,6 @@
 .dtree-laySimple-icon{color:#393D49!important;}
 .dtree-laySimple-checkbox:hover{color:#01AAED!important;}
 .dtree-laySimple-choose{color:#01AAED!important;}
-/**************** 树基础  ****************/
 /* 菜单栏*/
 .dtree-menubar {padding-left: 10px;}
 .dtree-menubar .layui-btn-group .layui-btn-sm{height: 20px;line-height: 20px;padding: 0 5px;font-size: 12px;}

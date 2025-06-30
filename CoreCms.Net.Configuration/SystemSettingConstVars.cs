@@ -1,15 +1,4 @@
-﻿/***********************************************************************
- *            Project: CoreCms.Net                                     *
- *                Web: https://CoreCms.Net                             *
- *        ProjectName: 核心内容管理系统                                *
- *             Author: 大灰灰                                          *
- *              Email: JianWeie@163.com                                *
- *         CreateTime: 2020-03-03 3:24:15
- *        Description: 暂无
- ***********************************************************************/
-
-
-namespace CoreCms.Net.Configuration
+﻿namespace CoreCms.Net.Configuration
 {
     /// <summary>
     /// 平台设置字段缓存名称定义

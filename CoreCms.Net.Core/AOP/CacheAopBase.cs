@@ -1,15 +1,4 @@
-﻿/***********************************************************************
- *            Project: CoreCms.Net                                     *
- *                Web: https://CoreCms.Net                             *
- *        ProjectName: 核心内容管理系统                                *
- *             Author: 大灰灰                                          *
- *              Email: JianWeie@163.com                                *
- *         CreateTime: 2020-05-08 23:28:44
- *        Description: 暂无
- ***********************************************************************/
-
-
-using Castle.DynamicProxy;
+﻿using Castle.DynamicProxy;
 using System;
 using System.Collections.Generic;
 using System.Linq;
